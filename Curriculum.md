@@ -26,3 +26,18 @@ _Erick Eduardo_ **Becerra Sanchez**
 
 2007-2010
 :   **Tecnico En Turismo**: Cecyte Xochimilco
+
+   
+
+**_Experiencia Profesional_**
+----------
+
+**Ingeniero En Microsoft:**
+
+Ingeniero lider en la empresa Microsoft encargado de disenar 
+la **Xbox One**, Programador de **Windows 7** y **Windows 10** y actual lider del equipo encargado de crear el **_nuevo sistema operativo_** que revolucionara el mundo.
+
+
+**Ingeniero en Google**
+
+Lider del equipo encargado de crear la "Inteligencia Artificial" de Google.
